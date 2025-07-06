@@ -36,7 +36,7 @@ To download this project to your computer:
 
 ```bash
 git clone https://github.com/tharjiha/Balloon-Defence
-cd BalloonDefence
+cd Balloon-Defence
 ```    
 
 ### 🧾 Compile

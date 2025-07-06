@@ -23,16 +23,21 @@ In traditional tower defense games, enemies try to cross the map, and the player
 - 📈 The strength of pins increases over time, requiring strategic upgrades.
 - 🎯 Goal: Survive as long as possible and earn the highest score before the balloon bursts.
 
+## Notes
+Requires Java 8 or higher
+No external libraries needed
+Works in command line or any Java IDE (Eclipse, IntelliJ, etc.)
+
 ---
 ## 🛠️ How to Compile & Run
 
-### 📁 Project Structure
-'Balloon Defence'/
-  └── balloonDefence/
-      ├── gameWindow.java ← contains main method
-      ├── balloon.java
-      ├── robot.java
-      ├── ...
+### 📥 How to Clone This Repository
+To download this project to your computer:
+
+```bash
+git clone https://github.com/tharjiha/Balloon-Defence
+cd BalloonDefence
+```    
 
 ### 🧾 Compile
 ```bash

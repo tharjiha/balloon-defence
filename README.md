@@ -2,8 +2,8 @@
 
 Balloon Defense is a modified take on the classic **Tower Defense** game. In this version, the player defends a large balloon from an oncoming wave of pins using strategically placed robots.
 
-<img src="images/homescreen.png" alt="Home Screenshot" width="30%" />
-<img src="images/map.png" alt="Game Screenshot" width="30%" />
+<img src="images/homescreen.png" alt="Home Screenshot" width="40%" />
+<img src="images/map.png" alt="Game Screenshot" width="40%" />
 
 ---
 

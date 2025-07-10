@@ -32,16 +32,16 @@ public class menuPanel extends JPanel implements ActionListener {
 	    Toolkit kit = Toolkit.getDefaultToolkit();
 	       
 	    //gets images from folder using getImage in kit
-	    background = kit.getImage("menu.png"); //background image of board
+	    background = kit.getImage("BackgroundImages//menu.png"); //background image of board
 	    
-	    map1 = getImage("board1.png",160,126); //image of the map
+	    map1 = getImage("BackgroundImages//board1.png",160,126); //image of the map
 	    ImageIcon map1Pic = new ImageIcon(map1); //making the map into image icon
 	    start1 = new JButton(map1Pic); //adding map image to start button
 	    start1.addActionListener(this); //adding start button to actionlistener
 	    start1.setBounds(528,140,150,110); //position start button
 	    add(start1); //adding button to screen
 	    
-	    map2 = getImage("board2.png",160,126); //image of the map
+	    map2 = getImage("BackgroundImages//board2.png",160,126); //image of the map
 	    ImageIcon map2Pic = new ImageIcon(map2); //making the map into image icon
 	    start2 = new JButton(map2Pic); //adding map image to start button
 	    start2.addActionListener(this); //adding start button to actionlistener

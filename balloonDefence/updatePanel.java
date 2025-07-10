@@ -53,7 +53,7 @@ public class updatePanel extends JPanel implements ActionListener{
     	setLayout(null); //make layout null to use bounds
     	
     	Toolkit kit = Toolkit.getDefaultToolkit(); //get toolkit
-		background = kit.getImage("updateBackground.png"); //background image of board
+		background = kit.getImage("BackgroundImages//updateBackground.png"); //background image of board
 		for(int i = 0; i < notBought.length; i++) { //adds robot image
 			robotImage[i] = notBought[i].getImage();
 		}

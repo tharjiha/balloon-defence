@@ -34,7 +34,7 @@ public class purchasePanel extends JPanel implements ActionListener {
     	setLayout(null); //make layout null to use bounds
     	
     	Toolkit kit = Toolkit.getDefaultToolkit(); //get toolkit
-		background = kit.getImage("purchaseBotBackground.png"); //background image of board
+		background = kit.getImage("BackgroundImages//purchaseBotBackground.png"); //background image of board
 		
 		for(int i = 0; i < buys.length; i++) { 
 			//adding all buy buttons

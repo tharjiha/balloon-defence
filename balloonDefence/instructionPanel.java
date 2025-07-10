@@ -29,11 +29,11 @@ public class instructionPanel extends JPanel implements ActionListener, ItemList
     	setLayout(null);
     	
     	Toolkit kit = Toolkit.getDefaultToolkit();
-		background = kit.getImage("instructions.png"); //background image of board
+		background = kit.getImage("BackgroundImages//instructions.png"); //background image of board
 		
 		//changes image of a panel
-		panelP = kit.getImage("pinInfo.png");
-		panelB = kit.getImage("botInfo.png");
+		panelP = kit.getImage("BackgroundImages//pinInfo.png");
+		panelB = kit.getImage("BackgroundImages//botInfo.png");
 		panel = panelP; //makes pins as default
 		
 		

@@ -44,7 +44,7 @@ public class losingPanel extends JPanel implements MouseListener, ActionListener
 	    Toolkit kit = Toolkit.getDefaultToolkit();
 	       
 	    //gets images from folder using getImage in kit
-	    background = kit.getImage("lostScreen.png"); //background image of board
+	    background = kit.getImage("BackgroundImages//lostScreen.png"); //background image of board
 	    
 	    
 	    scoreL.setFont(new Font("SansSerif", Font.BOLD, 20)); //adjusting the font of percents text

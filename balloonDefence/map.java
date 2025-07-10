@@ -20,10 +20,10 @@ public enum map {
 	public Image boardI () {
 		Toolkit kit = Toolkit.getDefaultToolkit();
 		if(this == map.map1) {
-			return kit.getImage("board1.png"); //background image of map1 board 
+			return kit.getImage("BackgroundImages//board1.png"); //background image of map1 board 
 		}
 		else {
-			return kit.getImage("board2.png"); //background image of map2 board 
+			return kit.getImage("BackgroundImages//board2.png"); //background image of map2 board 
 		}
 	}
 	

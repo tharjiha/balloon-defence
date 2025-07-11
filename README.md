@@ -38,8 +38,8 @@ Works in command line or any Java IDE (Eclipse, IntelliJ, etc.)
 To download this project to your computer:
 
 ```bash
-git clone https://github.com/tharjiha/Balloon-Defence
-cd Balloon-Defence
+git clone https://github.com/tharjiha/balloon-defence
+cd balloon-defence
 ```    
 
 ### 🧾 Compile
